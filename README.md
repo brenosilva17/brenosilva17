@@ -1,8 +1,3 @@
-### Olá, eu sou o Breno 👋
-
-- 🔭 Estou buscando ser um Desenvolvedor Web.
-- 🌱 Atualmente, estou aprendendo JavaScript.
-
 <div align="center">
   <a href="https://github.com/brenosilva17">
 </div>
